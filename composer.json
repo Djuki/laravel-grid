@@ -1,5 +1,5 @@
 {
-  "name": "leantony/laravel-grid",
+  "name": "djuki/laravel-grid",
   "description": "A grid view for laravel, inspired by the yii2 grid widget",
   "license": "MIT",
   "type": "library",
@@ -23,13 +23,13 @@
     }
   ],
   "require": {
-    "illuminate/view": "^5.5|^6|^8|^9",
-    "illuminate/support": "^5.5|^6|^8|^9",
-    "illuminate/console": "^5.5|^6|^8|^9",
-    "illuminate/contracts": "^5.5|^6|^8|^9",
-    "illuminate/http": "^5.5|^6|^8|^9",
-    "illuminate/database": "^5.5|^6|^8|^9",
-    "illuminate/pagination": "^5.5|^6|^8|^9"
+    "illuminate/view": "^5.5|^6|^8|^9|^10",
+    "illuminate/support": "^5.5|^6|^8|^9|^10",
+    "illuminate/console": "^5.5|^6|^8|^9|^10",
+    "illuminate/contracts": "^5.5|^6|^8|^9|^10",
+    "illuminate/http": "^5.5|^6|^8|^9|^10",
+    "illuminate/database": "^5.5|^6|^8|^9|^10",
+    "illuminate/pagination": "^5.5|^6|^8|^9|^10"
   },
   "suggest": {
     "maatwebsite/excel": "For exporting grid data as excel (~3.0)",
